@@ -1,4 +1,4 @@
-# Uz NLP CHALLENGE
+# CHATGPT 
 
 ```
 ⚪   >>> Can we achieve singularity?
